@@ -1,5 +1,4 @@
- 
- Reporting a Vulnerability?
+Report a bug
 
 Dm me on instagram @covidmenu.exe  
 (Provide Specific details)
