@@ -5,8 +5,8 @@
 | Version | Supported          |
 | ------- | ------------------ |
 | Windows | :white_check_mark: |
-| Linux   | :x:                |
-| Mac Os  | :x:                |
+|  Linux  | :x:                |
+|  Mac Os | :x:                |
  
  Reporting a Vulnerability?
 
