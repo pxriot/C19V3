@@ -5,6 +5,6 @@
 | Version | Supported          |
 | ------- | ------------------ |
 | Windows | :white_check_mark: |
-|  Linux  | :x:                |
-|  Mac Os | :x:                |
+| Linux   | :x:                |
+| Mac     | :x:                |
  
