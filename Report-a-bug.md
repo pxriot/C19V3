@@ -1,5 +1,5 @@
 Report a bug
 
-Dm me on instagram @covidmenu.exe  
+Dm me on instagram @pxrsoftware
 (Provide Specific details)
-https://www.instagram.com/covidmenu.exe/
+https://www.instagram.com/pxrsoftware/
