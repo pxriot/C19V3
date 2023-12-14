@@ -6,4 +6,5 @@
 | Windows | :white_check_mark: |
 | Linux   | :x:                |
 | Mac     | :x:                |
+| ---------------------------- |
  
