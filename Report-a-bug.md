@@ -6,5 +6,5 @@ Dm me on instagram @pxrsoftware
 
 https://www.instagram.com/pxrsoftware/
 
-you can also Report a bug below
+you can also Report a bug here v
 https://pxrsoftware.com/our-software
