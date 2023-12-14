@@ -1,6 +1,5 @@
  Covid-19 Menu V.3
- 
- Version 1 and 2 are gone forever
+ (C19V3 is a batch file so its only windows.)
  
 | Version | Supported          |
 | ------- | ------------------ |
